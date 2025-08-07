@@ -24,8 +24,8 @@ A GUI-based Python tool designed to streamline and automate the configuration of
 - Access Token with respective scopes/permissions
 
 ## Steps:
-- Step 1: Launch Main Tool
-  - Run main.py or the bundled .exe file.
+- Step 1: Launch Main Tool (Dynatrace_Host_Data_Tool.exe)
+  - Run the bundled Dynatrace_Host_Data_Tool.exe file.
   - Enter the Tenant URL and API Token.
   - Click Fetch Host Data to retrieve and store host details in host_data.xlsx.
 
